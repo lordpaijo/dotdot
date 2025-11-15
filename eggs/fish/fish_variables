@@ -2,7 +2,7 @@
 # VERSION: 3.0
 SETUVAR --export CARGO_TARGET_DIR:/tmp/cargo\x2dinstalllWVI1r
 SETUVAR --export JAVA_HOME:/home/paijogoesblue/\x2esdkman/candidates/java/11\x2e0\x2e22\x2dtem
-SETUVAR --export --path PATH:/home/paijogoesblue/\x2esdkman/candidates/java/11\x2e0\x2e22\x2dtem/bin\x1e/home/paijogoesblue/\x2ecargo/bin\x1e/home/paijogoesblue/\x2espicetify\x1e/home/linuxbrew/\x2elinuxbrew/bin\x1e/home/linuxbrew/\x2elinuxbrew/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/local/sbin\x1e/usr/sbin\x1e/home/paijogoesblue/\x2elocal/share/JetBrains/Toolbox/scripts\x1e/home/paijogoesblue/\x2espicetify\x1e/home/paijogoesblue/\x2espicetify
+SETUVAR --export --path PATH:/home/paijogoesblue/\x2esdkman/candidates/java/11\x2e0\x2e22\x2dtem/bin\x1e/home/paijogoesblue/\x2ecargo/bin\x1e/home/paijogoesblue/\x2espicetify\x1e/home/linuxbrew/\x2elinuxbrew/bin\x1e/home/linuxbrew/\x2elinuxbrew/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/local/sbin\x1e/usr/sbin\x1e/home/paijogoesblue/\x2elocal/share/JetBrains/Toolbox/scripts\x1e/home/paijogoesblue/\x2espicetify\x1e/home/paijogoesblue/\x2espicetify\x1e/home/paijogoesblue/\x2espicetify\x1e/home/paijogoesblue/\x2espicetify
 SETUVAR __fish_initialized:3800
 SETUVAR fish_color_autosuggestion:brblack
 SETUVAR fish_color_cancel:\x2dr

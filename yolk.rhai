@@ -20,5 +20,25 @@ export let eggs = #{
         targets: "~/.config/niri",
         templates: ["config.kdl"],
         enabled: true,
-    }
+    },
+    DankMaterialShell: #{
+        targets: "~/.config/DankMaterialShell",
+        templates: ["settings.json"],
+        enabled: true,
+    },
+    ghostty: #{
+        targets: "~/.config/ghostty",
+        templates: ["config"],
+        enabled: true,
+    },
+  	nvim: #{
+        targets: "~/.config/nvim",
+        templates: ["init.lua"],
+        enabled: true,
+    },
+  	starship: #{
+	  	  targets: "~/.config",
+  		  enabled: true,
+	  	  strategy: "merge", 
+	  }
 }

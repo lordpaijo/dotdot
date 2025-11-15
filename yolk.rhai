@@ -10,5 +10,15 @@ export let eggs = #{
         targets: "~/.config/alacritty",
         templates: ["alacritty.yml"],
         enabled: true,
+    },
+    fish: #{
+        targets: "~/.config/fish",
+        templates: ["config.fish"],
+        enabled: true,
+    },
+    niri: #{
+        targets: "~/.config/niri",
+        templates: ["config.kdl"],
+        enabled: true,
     }
 }

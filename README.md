@@ -8,6 +8,6 @@
 
 ![](./ss-1.png)
 
-### With DankMaterislShell Bar
+### With DankMaterialShell Bar
 
 ![](./ss-2.png)

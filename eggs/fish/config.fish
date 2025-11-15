@@ -5,7 +5,7 @@ if status is-interactive
     # Commands to run in interactive sessions can go here
 end
 
-fastfetch -c /usr/share/fastfetch/presets/examples/10.jsonc -l mac
+fastfetch -c /usr/share/fastfetch/presets/examples/10.jsonc -l windows
 fish_add_path /home/paijogoesblue/.spicetify
 #set -x SDKMAN_DIR $HOME/.sdkman
 #source $SDKMAN_DIR/bin/sdkman-init.sh 2>/dev/null

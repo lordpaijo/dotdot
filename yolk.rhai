@@ -40,5 +40,12 @@ export let eggs = #{
 	  	  targets: "~/.config",
   		  enabled: true,
 	  	  strategy: "merge", 
+	  },
+    fastfetch: #{
+	  	  targets: "~/.config/fastfetch",
+        templates: ["config.jsonc"],
+  		  enabled: true,
+	  	  strategy: "merge", 
 	  }
+
 }

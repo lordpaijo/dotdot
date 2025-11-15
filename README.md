@@ -1,8 +1,8 @@
 # My Dotfile
 ## Screenshots
 ### Blank
-![]("./ss-0.png")
+![]("https://github.com/lordpaijo/dotdot/blob/main/ss-0.png")
 ### With Ghostty
-![]("./ss-1.png")
+![]("https://github.com/lordpaijo/dotdot/blob/main/ss-1.png")
 ### With DankMaterislShell Bar
-![]("./ss-2.png")
+![]("https://github.com/lordpaijo/dotdot/blob/main/ss-2.png")

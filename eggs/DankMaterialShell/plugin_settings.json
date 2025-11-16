@@ -1,0 +1,11 @@
+{
+  "dankBatteryAlerts": {
+    "enabled": true
+  },
+  "webSearch": {
+    "enabled": true
+  },
+  "linuxWallpaperEngine": {
+    "enabled": true
+  }
+}

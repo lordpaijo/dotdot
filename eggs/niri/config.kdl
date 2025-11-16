@@ -428,6 +428,6 @@ debug {
     honor-xdg-activation-with-invalid-serial
 }
 cursor {
-    xcursor-theme "catppuccin-frappe-flamingo-cursors"
-    xcursor-size 18
+    xcursor-theme "Moga-Candy-Grey"
+    xcursor-size 24
 }
